@@ -7,8 +7,7 @@ Just send a PR. I will review it!
 
 1. [Books](#books)
 2. [Articles](#articles-and-blogposts)
-3. [Movies](#movies)
-4. [Books](#books)
+4. [Short posts](#short-posts)
 
 # Media
 
@@ -22,6 +21,3 @@ Just send a PR. I will review it!
 ## Articles (and blogposts)
 [Agency means just doing things (jesperbylund.com) ](https://jesperbylund.com/blog/agency-is-just-doing-things)
 [Practices that improve your personal agency (jesperbylund.com)](https://jesperbylund.com/blog/improve-your-agency)
-
-## Movies
-_Send a PR!_
