@@ -16,8 +16,8 @@ Just send a PR. I will review it!
 - [The Fountainhead (Ayn Rand)](https://www.amazon.com/Fountainhead-Ayn-Rand-ebook/dp/B002OSXDAU/ref=sr_1_1?crid=26RDMGUANCHX0&dib=eyJ2IjoiMSJ9.GOLDyKKCvUWTHWzpbfncxiaz400Iz706nLH3Q8sB1lxMJslsMz1_vcKXrklszCeMZsUxlVL01PSsozKFRXr79XvpoLsxne8kVTI0IT2916e5QKnWAPuNUQHxRdutNCi0moMC17NiD8ER8ma_531nm8pCl-1mUeQ5EeWI3jdbVB853Kly49cahykKE9Gi98shj0pldtOrr3CEaODZomH3-cNLoX1A0CF9SDWzpu_Oh4Y.Muy9ROQRK7jTQ6jUE2fYH4i0Hg-GIrmGJF-sLpFYKgk&dib_tag=se&keywords=the+fountainhead&qid=1733422679&s=digital-text&sprefix=the+fountain%2Cdigital-text%2C266&sr=1-1)
 
 ## Short Posts
-[HIGH AGENCY Once you SEE it - you can never UNSEE it. (George Mack)](https://x.com/george__mack/status/1068238562443841538)
+- [HIGH AGENCY Once you SEE it - you can never UNSEE it. (George Mack)](https://x.com/george__mack/status/1068238562443841538)
 
 ## Articles (and blogposts)
-[Agency means just doing things (jesperbylund.com) ](https://jesperbylund.com/blog/agency-is-just-doing-things)
-[Practices that improve your personal agency (jesperbylund.com)](https://jesperbylund.com/blog/improve-your-agency)
+- [Agency means just doing things (jesperbylund.com) ](https://jesperbylund.com/blog/agency-is-just-doing-things)
+- [Practices that improve your personal agency (jesperbylund.com)](https://jesperbylund.com/blog/improve-your-agency)
