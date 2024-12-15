@@ -8,7 +8,7 @@ Just send a PR. I will review it!
 1. [Books](#books)
 2. [Articles](#articles-and-blogposts)
 4. [Short posts](#short-posts)
-5. [Poetry](#peoetry)
+5. [Poetry](#poetry)
 
 # Media
 
