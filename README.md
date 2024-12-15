@@ -3,8 +3,10 @@ It turns out that helplessness is the natural state for humans. What we need to 
 This is a collection of media that helps inspire you to take more action.
 
 ## How to Contribute
-Just send a PR. I will review it!
+1. Send a PR with media that creates agency.
+2. I will review it!
 
+## Table of contents
 1. [Books](#books)
 2. [Articles](#articles-and-blogposts)
 4. [Short posts](#short-posts)
