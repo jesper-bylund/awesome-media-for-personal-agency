@@ -12,6 +12,7 @@ This is a collection of media that helps inspire you to take more action.
 3. [Articles](#articles-and-blogposts)
 4. [Short posts](#short-posts)
 5. [Poetry](#poetry)
+6. [Quotes](#quotes)
 
 # Media
 
@@ -37,3 +38,6 @@ This is a collection of media that helps inspire you to take more action.
 
 ## Poetry
 - ["If" (Rudyard Kipling)](https://www.poetryfoundation.org/poems/46473/if---)
+
+## Quotes
+- [“It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.” (Leonardo Da Vinci)](https://www.goodreads.com/quotes/156571-it-had-long-since-come-to-my-attention-that-people)
