@@ -8,7 +8,8 @@ This is a collection of media that helps inspire you to take more action.
 
 ## Table of contents
 1. [Books](#books)
-2. [Articles](#articles-and-blogposts)
+2. [Movies](#movies)
+3. [Articles](#articles-and-blogposts)
 4. [Short posts](#short-posts)
 5. [Poetry](#poetry)
 
@@ -22,6 +23,9 @@ This is a collection of media that helps inspire you to take more action.
 - [The Ascent of Man (Jacob Bronowksi)](https://a.co/d/en5B4wC)
 - [Meditations (Marcus Aurelius)](https://a.co/d/6NT2Ft5) — get the Hays translation!
 - [The Beginning of Infinity (David Deutsch)](https://a.co/d/8R9ONFI) — [author is active on X](https://x.com/DavidDeutschOxf)
+
+## Movies
+- [Lawrance of Arabia](https://www.imdb.com/title/tt0056172/)
 
 ## Short Posts
 - [HIGH AGENCY Once you SEE it - you can never UNSEE it. (George Mack)](https://x.com/george__mack/status/1068238562443841538)
